@@ -1,5 +1,5 @@
 # module2_VBA_Challenge
-# Module 2 VBA Challenge
+Module 2 VBA Challenge
 
 Sub stock_analysis()
     Dim ws As Worksheet
